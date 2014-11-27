@@ -1,8 +1,8 @@
 # Acer C720 Customization 
+
 * Acer c720 chromebook
 * 2GB memory
 * 16 GB Disk
-
 * Xubuntu 14.04
 * Kernel 3.17 (implicit touchpad fixed!)
  
